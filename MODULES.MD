@@ -29,3 +29,6 @@ For this Example I'll be using //Features//Base//
 ![winrar_njqrqlrdmx](https://user-images.githubusercontent.com/47341117/53952380-8f9dba80-409e-11e9-9662-873eccca4df4.png)
 
 + Copy and Extract Accordingly back to Ghidra
+
+
+~ Some errors may exist / tutorial maybe uncompleted. Use at your own risk.
