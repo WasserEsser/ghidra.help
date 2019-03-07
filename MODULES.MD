@@ -1,6 +1,3 @@
-## Building Modules
-todo
-
 ## Rebuilding Existing Modules
 
 Everything in Ghidra is basically a module project. The XXX-src packages that you see inside all of the module libs are there through the gradle build configurations. This allows for easy modular rebuilding.
@@ -25,9 +22,7 @@ For this Example I'll be using //Features//Base//
 
 ![eclipse_v6rrdcfdly](https://user-images.githubusercontent.com/47341117/53952318-6c730b00-409e-11e9-9c2a-631dee4d4f91.png)
 
-+ Export JAR
-
-![eclipse_armxgwdlnm](https://user-images.githubusercontent.com/47341117/53952144-143c0900-409e-11e9-9571-57a5f66b39b7.png)
++ Export JAR and Append Built Classes to Exported JAR
 
 + Check your //Base//dist//
 
